@@ -1,7 +1,7 @@
 # 欢迎使用 fateadm斐斐打码Python工具包
 
 **这里不是官方Python SDK，仅是个人平时使用的分享给大家，使用Python3编写**
-**斐斐打码官网[www.fateadm.com](http://www.fateadm.com)
+**斐斐打码官网[www.fateadm.com](http://www.fateadm.com)**
 
 # 快速使用
 
