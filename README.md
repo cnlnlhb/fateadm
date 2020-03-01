@@ -3,8 +3,6 @@
 **这里不是官方Python SDK，仅是个人平时使用的分享给大家，使用Python3编写**
 **斐斐打码官网[www.fateadm.com](http://www.fateadm.com)
 
-## MdEditor的功能列表演示
-
 # 快速使用
 
 先安装fateadm所需依赖
